@@ -1,0 +1,6 @@
+Plaintext
+streamlit
+requests
+beautifulsoup4
+pandas
+openai
